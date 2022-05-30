@@ -1,10 +1,3 @@
-first line
-second line
+все переделею
 
-Hello, how are u, Amma remote repository
-
-все переделал
-
-новая строка
-
-для нового реквеста
+да
